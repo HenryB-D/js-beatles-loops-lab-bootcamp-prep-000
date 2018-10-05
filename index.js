@@ -14,4 +14,4 @@ function johnLennonFacts(arr) {
     i++;
   }
   return result;
-  
+}
